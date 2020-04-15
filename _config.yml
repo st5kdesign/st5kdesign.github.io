@@ -3,8 +3,8 @@ title: ST5K DESIGN
 subtitle: by HTML5 UP
 email: st5kdesigns@gmail.com
 description: Portfolio Site for ST5K DESIGN
-baseurl: "https://st5kdesign.github.io/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/" 
+url: "https://st5kdesign.github.io"
 author:
 street_address: 
 city: Galena
